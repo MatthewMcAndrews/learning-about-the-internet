@@ -1,5 +1,4 @@
-# learning-about-the-internet
-Learning About the Internet
+# Learning About the Internet
 
 I am starting to go through the https://developer.mozilla.org and https://my-learning.w3schools.com tutorials for html, css, and javascript.
 
@@ -8,3 +7,5 @@ At work, they are talking about having our team convert some of our desktop appl
 As I learn new things, I intend to publish the artifacts to https://matthewmcandrews.com
 
 My goal is to publish a CRUD web application with a DB, and a UI displaying data in a grid.
+
+-Matthew McAndrews
